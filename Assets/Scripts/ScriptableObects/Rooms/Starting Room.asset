@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae46a05851ebe4540aa684a6c5fc3af1, type: 3}
+  m_Name: Starting Room
+  m_EditorClassIdentifier: 
+  description: 'From a massive wind gust, the door slams shut behind you and you
+    hear the clack of a lock on that door. You realize you cannot go out the way
+    you came in.
+
+
+    You are all alone in the grand foyer of an old, creepy, but well maintained
+    mansion. The sound of a great grandfather clock ticks in the distance...'
+  roomName: starting room
